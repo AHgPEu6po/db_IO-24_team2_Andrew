@@ -13,7 +13,7 @@ Delete (видаляти).
 ### Main
 ![img_1.png](./photo/main1.png)
 ![img_2.png](./photo/main2.png)
-![img_10.png](./photo/main3.png)
+![img_10.png](./photo/main4.png)
 
 ### Create
 ![img_3.png](./photo/create.png)
